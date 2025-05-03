@@ -11,6 +11,6 @@ Bienvenue sur le serveur SSH de Cyrhades
 
 Utilisez netcat pour accéder au challenge sur le serveur chaussette-xs.cyrhades.fr!
 
-*****:~$ nc chaussette-xs.cyrhades.fr:4000
+*****:~$ nc chaussette-xs.cyrhades.fr 4000
 
 Bonne chance !

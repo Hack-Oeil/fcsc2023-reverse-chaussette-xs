@@ -20,12 +20,12 @@ Origine : [Chaussette (XS)](https://hackropole.fr/fr/challenges/reverse/fcsc2023
 > http://localhost
 
 #### tentez 
-> nc chaussette-xs.cyrhades.fr:4000
+> nc chaussette-xs.cyrhades.fr 4000
 
 -----------
 
 ## Ou directement avec netcat
-> nc localhost:4000
+> nc localhost 4000
 
 
 -----------
