@@ -9,7 +9,7 @@ Fichier:
 - [chaussette-xs](chaussette-xs)
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Chaussette (XS)](https://hackropole.fr/fr/challenges/reverse/fcsc2023-reverse-chaussette-xs/)
 
